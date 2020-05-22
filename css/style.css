@@ -9,7 +9,7 @@ html {
 
 
 body {
-	background: #01b9d5 url('../images/bg.jpg') no-repeat fixed left center;
+	background: #01b9d5 url('../images/bg.jpg') no-repeat fixed left top;
 	background-size: cover;
 	color: #fff;
 	text-align: center;
