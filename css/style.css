@@ -9,7 +9,7 @@ html {
 
 
 body {
-	background: #151515 url('../images/bg.jpg') no-repeat fixed left bottom;
+	background: #01b9d5 url('../images/bg.jpg') no-repeat fixed left center;
 	background-size: cover;
 	color: #fff;
 	text-align: center;
@@ -108,7 +108,7 @@ body {
 
 
 .skills {
-	background-color: #383634;
+	background-color: #01b9d5;
 	padding: 80px 0;
 }
 .skills-wrapper {
