@@ -141,19 +141,18 @@ body {
 
 
 .works {
-	padding: 80px 0px;
+	padding: 80px 0;
 	background-color: #fff;
 	color: #333;
 }
 .works-wrapper {
 	display: table;
-	width: 80%;
-	margin: 60px auto 0;
+	width: 90%;
+	margin: 50px auto 0;
 	table-layout: fixed;
 }
 .work-box {
 	display: table-cell;
-	margin: 0 20px;
 }
 .work-link {
 	text-decoration: none;
@@ -162,19 +161,16 @@ body {
 	opacity: 0.8;
 }
 .work-image {
-	display: block;
-	width: 90%;
+	width: 98%;
+	max-width: 540px;
+
 	border-radius: 7px;
 }
 .work-title {
-	display: block;
-	text-align: left;
 	color: #333;
 	font-size: 2rem;
 }
 .work-text {
-	display: block;
-	text-align: left;
 	margin-bottom: 50px;
 	color: #888;
 }
